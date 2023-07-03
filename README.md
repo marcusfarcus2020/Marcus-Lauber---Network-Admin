@@ -1,6 +1,7 @@
 # Marcus-Lauber---Network-Admin
 
-Hello world
+## **File name:**AQUARIUS.PNG 
+## **URL:** 
+`https://express.adobe.com/post/wnYAVudgBTMqQ/`
+Main logo for a company, would be edited if used as a favicon
 
-! [AQUARIUS] (AQUARIUS.png)
-### test
