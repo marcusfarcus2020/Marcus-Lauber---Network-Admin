@@ -1,7 +1,7 @@
 # Marcus-Lauber---Network-Admin
 
 ## File name: AQUARIUS.PNG 
-![test](/AQUARIUS.png=250x250)
+![test](/AQUARIUS.png =250x250)
 ### URL:
 `https://express.adobe.com/post/wnYAVudgBTMqQ/`
 ### Main logo for a company, would be edited if used as a favicon
