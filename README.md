@@ -13,7 +13,7 @@
 ![Python.png](/Python.png)
 ```
 # Marcus Lauber
-# Program evaluating if one varriable is bigger than anouther 
+# Program evaluating if one varriable is bigger than another, showing abilty to understand programing logic and abilty to diagram it 
 
 Dwight = 15
 Schrute = 20
@@ -21,3 +21,7 @@ if Schrute > Dwight:
 	print("THE SCHRUTE FAMILY NAME IS BIGGER THAN DWIGHT")
 ```
 ### Program evaluating if one variable is bigger than another
+
+## File name: MyClass.png
+! [MyClass.png](/MyClass.png)
+### UMl diagram showing abilty to understand obeject Object-Oriented-Programing
