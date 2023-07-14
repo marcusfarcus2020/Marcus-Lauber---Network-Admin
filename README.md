@@ -57,3 +57,6 @@ def main():
 if __name__ == "__main__":
   main()
 ```
+## Filename: Network design
+### Mock network using a star topology. Though not really robust since star networks have a single point of failure, star is the most appropriate for this relatively basic home network.
+! [NetworkDesign.png](/NetworkDesign.png)
