@@ -27,7 +27,7 @@ if Schrute > Dwight:
 ### UMl diagram showing the ability to understand Object-Oriented-Programing
 
 ## Filename PythonOOP.png
-! [PythonOOP.png](PythonOOP.png)
+! [PythonOOP.png](/PythonOOP.png)
 ### Python program showing the ability to understand Object-Oriented-Programing and implement Object-Oriented-Programing
 ### Filename: Flower.py (Python program, also shown below)
 ```
