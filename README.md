@@ -63,9 +63,9 @@ if __name__ == "__main__":
 
 ## Filename: SQLQuery.png
 ### SQL statements interacting with the W3School's demo database
-`
+```
 SELECT ProductName, Price FROM Products
 WHERE Price > 70
 ORDER BY price;
-`
+```
 ! [SQLQuery.png](/SQLQuery.png)
