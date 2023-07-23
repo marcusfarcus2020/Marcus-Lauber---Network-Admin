@@ -57,6 +57,15 @@ def main():
 if __name__ == "__main__":
   main()
 ```
-## Filename: Network design
+## Filename: NetworkDesign.png
 ### Mock network using a star topology. Though not really robust since star networks have a single point of failure, star is the most appropriate for this relatively basic home network due to it's low cost.
 ! [NetworkDesign.png](/NetworkDesign.png)
+
+## Filename: SQLQuery.png
+### SQL statements interacting with the W3School's demo database
+`
+SELECT ProductName, Price FROM Products
+WHERE Price > 70
+ORDER BY price;
+`
+! [SQLQuery.png](/SQLQuery.png)
