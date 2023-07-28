@@ -69,3 +69,22 @@ WHERE Price > 70
 ORDER BY price;
 ```
 ! [SQLQuery.png](/SQLQuery.png)
+
+## Filename: MyHTML.png
+### Demo HTML website for a web design company on Fiverr
+```
+<!DOCTYPE html>
+<html>
+	<head>
+ 	   <title>My awesome Geo Cities Website</title>
+	</head>
+	</body>
+		<image src="https://github.com/marcusfarcus2020/Marcus-Lauber---Network-Admin/raw/main/AQUARIUS.png" width=300 height=300>
+		<h1>Aquarius Web Design</h1>
+		<h2>A Fiverr Company</h2>
+        <p>I will design a website for you with a company logo, a title, and a main page showcasing your buissness. All for the low-low price of <strong>FREE.99</strong></p>
+
+	</body>
+</html>
+```
+! [MyHTML.png](MyHTML.png)
